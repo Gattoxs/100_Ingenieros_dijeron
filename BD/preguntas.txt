@@ -1,0 +1,30 @@
+////////////Tabla Preguntas
+INSERT INTO `preguntas`(`pregunta`) VALUES ("Mencione 2 o 3 dispositivos que se puedan conectar a una Red."),
+("Mencione 2 o 3 topologias."),
+("Mencione 2 o 3 dispositivos que se puedan conectar a una Red."),
+("Mencione 2 o 3 topologias."),
+("Menciona 2 o 4 lugares donde te gusta hacer la tarea."),
+("Menciona 2 o 4 redes sociales ademas de facebook"),
+("Menciona 1 o 2 editores de texto."),
+("Menciona 2 o 3 navegadores aparte de Internet Explorer"),
+("Menciona 2 o 3 cosas que te molesta cuando estas usando la computadora o laptop"),
+("Menciona 2 0 3 tipos de virus de computadora que conozcas."),
+("Menciona 3 o 4 partes mas importantes de una computadora(hardware)."),
+("Si tuvieras la oportunidad de obtener 2 o 3 super poderes ¿Cuales serian?"),
+("Menciona 2 o 3 sagas de peliculas de ciencia ficcion o de super heroes."),
+("Menciona 2 o 3 Caricaturas clasicas de cartoon network o nickelodeon"),
+("Menciona 3 o 5  series de tv comedia sci fi terror o suspenso."),
+("Menciona 3 tipos de Sistema Operativo."),
+("Menciona 3 o 5 tipos de variables que se pueden declarar en un programa."),
+("Menciona 2 o 3 Superheroes."),
+("Menciona 2 o 3 Supervillanos."),
+("Menciona 3 consolas de videojuegos."),
+("Menciona 2 o 3 personajes de videojuegos."),
+("Mencionaa un problema por la cual un equipo de trabajo no termine un proyecto."),
+("Menciona alguna pagina de internet que no te deje usar tu profesor."),
+("Menciona algun tipo de memoria de computadora."),
+("Menciona Una pelicula mala basada en un comic o videojuego.")
+
+
+
+
